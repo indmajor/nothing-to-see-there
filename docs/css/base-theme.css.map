@@ -1,0 +1,13 @@
+{
+	"version": 3,
+	"file": "base-theme.css",
+	"sourceRoot": "/Users/olga/nothing-to-see-there",
+	"sources": [
+		"stdin"
+	],
+	"sourcesContent": [
+		"header {\n  padding: 0 20px;\n  max-width: 740px;\n  margin: 0 auto;\n}\n"
+	],
+	"names": [],
+	"mappings": "AAAA,AAAA,MAAM,AAAC,CACL,OAAO,CAAE,MAAM,CACf,SAAS,CAAE,KAAK,CAChB,MAAM,CAAE,MAAM,CACf"
+}
