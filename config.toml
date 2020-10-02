@@ -1,0 +1,30 @@
+baseURL = "https://indmajor.github.io/nothing-to-see-there/"
+languageCode = "en-us"
+title = "Nothing to see there"
+theme = "rocinante"
+paginate = 3
+
+publishDir = "docs"
+
+
+[markup]
+  [markup.highlight]
+    style = "monokailight"
+  [markup.goldmark.renderer]
+    unsafe = true
+
+[params]
+  mainSections = ["posts", "photos"]
+  about = """
+  Hi, I'm **Olga**.
+
+  I will try to show how much one can learn about history and culture by exploring places most consider not worth seeing.
+
+  _Do not ever believe that there are places with nothing to see_.
+"""
+
+  [[params.links]]
+   [[params.links.link]]
+      name = "Instagram"
+      href = "https://instagram.com/complete_berlin"
+      new_tab = true
