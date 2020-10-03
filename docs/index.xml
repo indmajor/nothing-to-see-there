@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nothing to see there</title>
-    <link>//nothing-to-see-there/</link>
+    <link>https://indmajor.github.io/nothing-to-see-there/</link>
     <description>Recent content on Nothing to see there</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Oct 2020 15:59:46 +0200</lastBuildDate><atom:link href="//nothing-to-see-there/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 02 Oct 2020 15:59:46 +0200</lastBuildDate><atom:link href="https://indmajor.github.io/nothing-to-see-there/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>4 hours in Frankfurt (Oder)</title>
-      <link>//nothing-to-see-there/posts/frankfurt-oder/</link>
+      <link>https://indmajor.github.io/nothing-to-see-there/posts/frankfurt-oder/</link>
       <pubDate>Fri, 02 Oct 2020 15:59:46 +0200</pubDate>
       
-      <guid>//nothing-to-see-there/posts/frankfurt-oder/</guid>
+      <guid>https://indmajor.github.io/nothing-to-see-there/posts/frankfurt-oder/</guid>
       <description>&lt;p&gt;A town in Brandenburg divided by a border into the German &lt;strong&gt;Frankfurt (Oder)&lt;/strong&gt; and the Polish &lt;strong&gt;Słubice&lt;/strong&gt; after the WWII.&lt;/p&gt;</description>
     </item>
     
