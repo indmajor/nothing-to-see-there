@@ -1,4 +1,4 @@
-baseURL = "https://indmajor.github.io/nothing-to-see-there/"
+baseURL = "//nothing-to-see-there/"
 languageCode = "en-us"
 title = "Nothing to see there"
 theme = ["base-theme", "rocinante"]
