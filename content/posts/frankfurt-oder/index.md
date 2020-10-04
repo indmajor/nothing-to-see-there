@@ -86,6 +86,8 @@ We take Jedności Robotniczej into the direction of the bridge. It is a nice ped
 
 {{< figure src="25.jpg" title="Collegium Polonicum - a joint research center of German and Polish universities" >}}
 
+{{< figure src="33.jpg" title="Monument to Wikipedia" >}}
+
 {{< figure src="26.jpg" title="View of Frankfurt (Oder) from Słubice" >}}
 
 {{< figure src="27.jpg" title="The Oder dividing Poland and Germany" >}}
