@@ -1,5 +1,5 @@
 ---
-title: "4 hours in Frankfurt (Oder)"
+title: "What to see in Frankfurt (Oder): a day trip from Berlin"
 date: 2020-10-02T15:59:46+02:00
 location: Frankfurt (Oder)
 display_date:
@@ -8,7 +8,7 @@ banner: frankfurt-banner.png
 draft: false
 ---
 
-A town in Brandenburg divided by a border into the German **Frankfurt (Oder)** and the Polish **Słubice** after the WWII.
+_A visit to a town in Brandenburg divided by a border into the German **Frankfurt (Oder)** and the Polish **Słubice** after the WWII. East German history, communist architecture, a border crossing, beautiful landscape, old cinemas, and hopes for a new era._
 
 <!--more-->
 
