@@ -12,6 +12,10 @@ _A visit to a town in Brandenburg divided by a border into the German **Frankfur
 
 <!--more-->
 
+- **Duration**: 4 hours
+- **How long it takes from Berlin:** 1 hour 15 minutes by regional train
+
+
 Just step outside the main railway station, and you can already see the first point of interest: on your right, you find the heritage-listed **Kiliansberg housing estate**. It was built in 1922/24 to provide apartments for the railway workers. In its courtyard, there is a **monument to the railway workers** who died in the First World War. But, as of now (September 2020), visitors probably don’t understand to whom the monument is dedicated: the inscription was removed after the Second World War, and there has been no agreement on how and whether to restore it. The winged wheel on the top, however, provides a hint.
 
 {{< figure src="1.jpg" title="Kiliasberg housing estate built for railway workers" >}}
