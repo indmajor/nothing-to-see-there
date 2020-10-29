@@ -3,6 +3,7 @@ title: "A city tour of Cottbus: a day trip from Berlin"
 date: 2020-10-09T11:07:21+02:00
 draft: false
 banner: cottbus-banner.png
+tags: ["cottbus", "brandenburg", "niederlausitz"]
 ---
 
 _A visit to the second-largest city of Brandenburg. Lower Sorbian language, plaques to the working class, French Huguenots, contemporary architecture and Jugendstil._

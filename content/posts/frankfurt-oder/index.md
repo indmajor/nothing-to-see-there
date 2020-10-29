@@ -3,7 +3,7 @@ title: "What to see in Frankfurt (Oder): a day trip from Berlin"
 date: 2020-10-02T15:59:46+02:00
 location: Frankfurt (Oder)
 display_date:
-tags: ["brandenburg", "poland", "oder", "bordeland"]
+tags: ["brandenburg", "poland", "oder", "borderland"]
 banner: frankfurt-banner.png
 draft: false
 ---
