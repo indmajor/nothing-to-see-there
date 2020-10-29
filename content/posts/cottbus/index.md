@@ -44,9 +44,9 @@ There are many examples of commercial architecture of the late 19th and early 20
 Now we enter the **Altmarkt**, the center of the old city. It emerged as an intersection of three trade routes in the 13th century, but was completely burned down three hundred years later. The oldest houses here date back to the 18th century. Notice how _Plattenbauten_ (buildings constructed of large, prefabricated concrete slabs typical for East Germany) are integrated into the historical atmosphere of the square on Berliner Straße. There are several such “insertions” in the old city: in fact, a special style of _Plattenbauten_ was designed to fit in among the 18th century baroque. After a visit to the Church of St. Nikolai, if we take a turn to Klosterstraße, we will see a composition called “Sorbian Wedding” at the corner.
 
 {{< figure src="10.jpg" title="Altmarkt, with buildings mostly from the 18th century" >}}
-{{< figure src="11.jpg" title="GDR-era Plattenbauen blend into the historical atmosphere" >}}
+{{< figure src="11.jpg" title="GDR-era Plattenbauten blend into the historical atmosphere" >}}
 {{< figure src="12.jpg" title="\"Sorbian Wedding\"" >}}
-{{< figure src="13.jpg" title="Exclusive design of Plattenbauen made for the old quarter of Cottbus" >}}
+{{< figure src="13.jpg" title="Exclusive design of Plattenbauten made for the old quarter of Cottbus" >}}
 
 Our next destination is a small island on the Spree. We pass the imposing district court on Gerichtsplatz and arrive at the river. The red-brick building, built in a neo-Gothic style in 1896, was originally a **hydroelectric power plant**. It was shut down in 1968 after the construction of coal power plants.
 
