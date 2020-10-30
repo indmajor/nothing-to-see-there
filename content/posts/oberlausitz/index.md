@@ -6,7 +6,7 @@ draft: false
 banner: "oberlausitz-banner.png"
 ---
 
-_This is a perfect day trip from Görlitz: buy a day train ticket for Saxony and explore the historic region of Oberlausitz at your own pace. We will cross the border, visit an abbey, walk on the medieval city wall and many more._
+_This is a perfect day trip from Görlitz: buy a day train ticket for Saxony and explore the historic region of Oberlausitz at your own pace. We will explore three very different cities, cross the border, visit an abbey, walk on the medieval city wall and much more._
 
 <!--more-->
 
