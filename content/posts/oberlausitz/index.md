@@ -13,8 +13,7 @@ _This is a perfect day trip from Görlitz: buy a day train ticket for Saxony and
 - **Price:** the day train ticket costs 31€ for 2 persons (check the price beforehand)
 - **Planning:** the ticket is valid from 9am until 3am. We took the train from Görlitz around 9am and managed to return by 18pm to Görlitz. Do not forget your passport, because you’ll spend some time in Poland!
 
-Ostritz
-=======
+## Ostritz
 
 The train from Görlitz to Ostritz takes about 20 minutes. We get off at _Krzewina Zgorzelecka_, located in Poland. We are greeted by a kiosk selling Polish products and advertising both in Polish and German for the customers on two sides of the border. The small pedestrian bridge takes us into Ostritz. After the war, when the railway station ended up on the Polish side, and until 1990 this piece of land was under strict military surveillance, so no deviation from the allowed pathways between the station and the city was possible. Now it is very peaceful here.
 
@@ -50,8 +49,7 @@ _St. Marienthal Abbey_ is the oldest continuously running nunnery of the Cisterc
 
 We now take a bus back to Ostritz and, at Krzewina Zgorzelecka, a train to Zittau. The train crosses the border back and forth, and we are able to enjoy the view of the Oder river and various small settlements. After 20 minutes we arrive at Zittau.
 
-Zittau
-======
+## Zittau
 
 _Steam locomotives_ still depart from the railway station in Zittau. A narrow-gauge railway employing them is located just outside the entrance. They serve the mountain resorts of Oybin and Jonsdorf.
 
@@ -84,8 +82,7 @@ Next we visit the former fortifications, now a green park surrounding the old to
 
 Our time in Zittau is running out. We hop on the bus to Löbau from the nearby Ottokarplatz, and then take the train to Bautzen, our last city for the day. I recommend highly to take the bus trip to Löbau — you’ll see the beautiful countryside, the bus will stop at the pretty small towns, and, if you have as much luck as we did, you will see a lot of strolling cats!
 
-Bautzen
-=======
+## Bautzen
 
 We arrive at Bautzen at around 15 o’clock. We’ll make a quick tour of the city to catch the 17 o’clock train back to Görlitz. The railway station is unusual: it is also used by the administration of the city as offices, to make the upkeep more profitable.
 

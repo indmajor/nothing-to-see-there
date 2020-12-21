@@ -12,6 +12,11 @@ publishDir = "docs"
     style = "monokailight"
   [markup.goldmark.renderer]
     unsafe = true
+  [markup.tableOfContents]
+    endLevel = 3
+    ordered = false
+    startLevel = 2
+
 
 [params]
   mainSections = ["posts", "photos"]
